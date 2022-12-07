@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tourism-app/static/css/main.39f5b775.css",
+    "main.js": "/tourism-app/static/js/main.29068616.js",
+    "static/media/img-brazil.jpg": "/tourism-app/static/media/img-brazil.39a84100753be9211942.jpg",
+    "static/media/img-peru.jpg": "/tourism-app/static/media/img-peru.5cb074d5b66825d3ca29.jpg",
+    "static/media/img-everest.jpg": "/tourism-app/static/media/img-everest.deb92fc5cbaf09a33d24.jpg",
+    "static/media/img-mexico.jpg": "/tourism-app/static/media/img-mexico.620605020279837a45ae.jpg",
+    "index.html": "/tourism-app/index.html",
+    "main.39f5b775.css.map": "/tourism-app/static/css/main.39f5b775.css.map",
+    "main.29068616.js.map": "/tourism-app/static/js/main.29068616.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39f5b775.css",
+    "static/js/main.29068616.js"
+  ]
+}
